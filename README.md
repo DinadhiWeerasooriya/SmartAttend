@@ -63,8 +63,5 @@ The goal of SmartAttend is to provide a more convenient and structured approach 
 ### Student Dashboard
 ![Student Dashboard](screenshots/student-dashboard.png)
 
-### QR Attendance
-![QR Attendance](screenshots/qr-attendance.png)
-
 ### Attendance Reports
 ![Attendance Reports](screenshots/attendance-reports.png)
