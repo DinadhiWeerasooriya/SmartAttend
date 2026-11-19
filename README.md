@@ -51,3 +51,20 @@ The goal of SmartAttend is to provide a more convenient and structured approach 
 **Project:** SmartAttend  
 **Category:** University Attendance Management System  
 **Development:** Group Project
+
+## Application Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Lecturer Dashboard
+![Lecturer Dashboard](screenshots/lecturer-dashboard.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/student-dashboard.png)
+
+### QR Attendance
+![QR Attendance](screenshots/qr-attendance.png)
+
+### Attendance Reports
+![Attendance Reports](screenshots/attendance-reports.png)
