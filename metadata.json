@@ -1,0 +1,6 @@
+{
+  "name": "SmartAttend",
+  "description": "Smart University Attendance Management System with dynamic 30-second QR codes, geolocation verification, and device binding.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
